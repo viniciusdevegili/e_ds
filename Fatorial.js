@@ -12,4 +12,4 @@ function calcularFatorial(n) {
 }
 
 const input = 5;
-console.log("Output:", calcularFatorial(input)); 
+console.log("Saida:", calcularFatorial(input)); 

@@ -11,5 +11,5 @@ function Palindromo(str) {
     return true; 
 }
 
-const input = "arara";
+const input = "amor a roma";
 console.log("Saida:", Palindromo(input)); 
